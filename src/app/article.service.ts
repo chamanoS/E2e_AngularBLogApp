@@ -2,7 +2,6 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable, of } from 'rxjs';
 import { Article } from './article';
-import { ARTICLES } from './mock-articles';
 
 @Injectable({
   providedIn: 'root'
