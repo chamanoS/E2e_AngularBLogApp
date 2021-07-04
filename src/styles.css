@@ -4,6 +4,7 @@ body{
     margin: 0 auto;
     max-width: 800px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(241, 234, 223, 0.945);
 }
 .meta-info{
     color: grey;
